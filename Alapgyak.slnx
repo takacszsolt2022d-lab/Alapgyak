@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="FelhasznaloFiok/FelhasznaloFiok.csproj" />
   <Project Path="Mertekegyseg/Mertekegyseg.csproj" />
   <Project Path="WebaruhazTermek/WebaruhazTermek.csproj" />
 </Solution>
